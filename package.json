@@ -3,5 +3,33 @@
     "lower-case": "^2.0.2",
     "readline-sync": "^1.4.10",
     "upper-case": "^2.0.2"
-  }
+  },
+  "name": "node-js-workspace",
+  "version": "1.0.0",
+  "description": "study project jey-ess",
+  "main": "array sample.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CanOrbit2025Team/CubeSat_SmallSat_ProjectbyCanOrbit.git"
+  },
+  "keywords": [
+    "\"keywords\":",
+    "[\"jey-ess\"",
+    "\"study\"",
+    "\"project\"",
+    "\"cubesat\"",
+    "\"smallsat\"",
+    "\"satellite\"",
+    "\"orbit\"]"
+  ],
+  "author": "\"CanOrbit2025Team\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CanOrbit2025Team/CubeSat_SmallSat_ProjectbyCanOrbit/issues"
+  },
+  "homepage": "https://github.com/CanOrbit2025Team/CubeSat_SmallSat_ProjectbyCanOrbit#readme"
 }
